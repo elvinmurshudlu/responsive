@@ -73,6 +73,8 @@
                 display: flex;
                 gap: 35px;
                 font-size: 22px;
+                
+                
                 li{
                     line-height: 100px;
                     padding: 0 10px;
@@ -147,6 +149,10 @@
             }
             ul{
                 line-height: 34px;
+                li:first-child{
+                    font-weight: 800;
+                }
+
                 input{
                     border-radius: 20px;
                     padding: 3px 10px;

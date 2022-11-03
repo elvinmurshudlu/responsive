@@ -120,6 +120,9 @@
 .container .footer ul {
   line-height: 34px;
 }
+.container .footer ul li:first-child {
+  font-weight: 800;
+}
 .container .footer ul input {
   border-radius: 20px;
   padding: 3px 10px;
